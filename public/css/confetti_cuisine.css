@@ -46,15 +46,6 @@ a {
   padding: 0% 10%;
 }
 
-.subscriber{
-  padding: 10px, 0px;
-  border-bottom: 1px solid lightgray;
-}
-
-.subscriber p {
-  margin: 0;
-}
-
 .button {
   background-color: #ed4a0f;
   padding: 0.3vw 3vw;
